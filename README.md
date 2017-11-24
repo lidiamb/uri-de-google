@@ -8,3 +8,9 @@
 6. https://www.google.es/search?q=bots&as_sitesearch=euw.leagueoflegends.com
 7. https://www.google.es/search?q=hackers&as_qdr=d
 8. https://www.google.es/search?q=league+of+legend&as_filetype=jpg&as_rights=(cc_publicdomain%20|%20cc_attribute%20|%20cc_sharealike%20|%20cc_nonderived)
+9. https://www.google.es/search?q=bitcoin+~%20robar
+https://www.google.es/search?q=bitcoin+robar
+10. https://www.google.es/search?q=define%3orate
+11. https://www.google.es/search?q=libros+de+historia&Ir=lang_de
+12. https://www.google.es/search?q=TRABAJO&cr=countryDE
+https://www.google.es/search?q=TRABAJO&cr=countryDE&lr=lang_de
